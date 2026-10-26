@@ -1,0 +1,23 @@
+{
+  "product": "dx-zaza",
+  "version": "1.2.0",
+  "published": "2026-10-26T10:31:19Z",
+  "notes": {
+    "it": "Aggiornamenti automatici: DX Zaza controlla da solo le nuove versioni e si aggiorna con un pulsante. Bande HF in tempo reale.",
+    "en": "Automatic updates: DX Zaza checks for new versions by itself and updates with one button. Live HF band activity."
+  },
+  "platforms": {
+    "windows": {
+      "file": "DX-Zaza-1.2.0-Windows-x64-Setup.exe",
+      "url": "https://raw.githubusercontent.com/chefemanuele-maker/dx-zaza-updates/main/files/1.2.0/DX-Zaza-1.2.0-Windows-x64-Setup.exe",
+      "sha256": "1b570053ea1d8e8456b70df3df526677f4a25c02a3734b918c6702c2eeb29572",
+      "size": 23893234
+    },
+    "pi": {
+      "file": "dx_zaza_1.2.0-pi_update.tar.gz",
+      "url": "https://raw.githubusercontent.com/chefemanuele-maker/dx-zaza-updates/main/files/1.2.0/dx_zaza_1.2.0-pi_update.tar.gz",
+      "sha256": "7fdc1479f4ba72508c4b81b5be142e893096a10927e92f2b10755aaeeccda75a",
+      "size": 3604848
+    }
+  }
+}

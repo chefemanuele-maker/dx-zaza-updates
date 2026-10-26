@@ -1,23 +1,23 @@
 {
   "product": "dx-zaza",
-  "version": "1.2.1",
-  "published": "2026-10-26T10:45:17Z",
+  "version": "1.4.0",
+  "published": "2026-10-26T14:13:22Z",
   "notes": {
-    "it": "Aggiornamenti automatici con un pulsante, scheda Aggiornamenti nelle Impostazioni, bande HF in tempo reale.",
-    "en": "One-button automatic updates, Updates card in Settings, live HF band activity."
+    "it": "Decoder CW, FT8 e FT4 nel player Listen Live; spot più puliti (niente più quadratini nei commenti) e colonna UTC sempre visibile; nomi dei ricevitori KiwiSDR corretti.",
+    "en": "CW, FT8 and FT4 decoders in the Listen Live player; cleaner spots (no more boxes in comments) and UTC column always visible; KiwiSDR receiver names shown correctly."
   },
   "platforms": {
     "windows": {
-      "file": "DX-Zaza-1.2.1-Windows-x64-Setup.exe",
-      "url": "https://raw.githubusercontent.com/chefemanuele-maker/dx-zaza-updates/main/files/1.2.1/DX-Zaza-1.2.1-Windows-x64-Setup.exe",
-      "sha256": "83d7d9c3d0a5f03340fe6d5674f3d5ca9b89e67bf7a6173d56379ae8b744e569",
-      "size": 23890291
+      "file": "DX-Zaza-1.4.0-Windows-x64-Setup.exe",
+      "url": "https://raw.githubusercontent.com/chefemanuele-maker/dx-zaza-updates/main/files/1.4.0/DX-Zaza-1.4.0-Windows-x64-Setup.exe",
+      "sha256": "c2f9b2953a35f9c0af41413400b676ccc92b9dddbd4467c1b5851e3a8784de95",
+      "size": 23943119
     },
     "pi": {
-      "file": "dx_zaza_1.2.1-pi_update.tar.gz",
-      "url": "https://raw.githubusercontent.com/chefemanuele-maker/dx-zaza-updates/main/files/1.2.1/dx_zaza_1.2.1-pi_update.tar.gz",
-      "sha256": "7b77cf646a0dde22aeca402af01dfcd6c95682782f67124e8fd075e427503927",
-      "size": 3605379
+      "file": "dx_zaza_1.4.0-pi_update.tar.gz",
+      "url": "https://raw.githubusercontent.com/chefemanuele-maker/dx-zaza-updates/main/files/1.4.0/dx_zaza_1.4.0-pi_update.tar.gz",
+      "sha256": "1ce982ed7c22b8964270a1ca556f645f0ae96f9b2ec36fc6dcc81ab91f642c4f",
+      "size": 3654927
     }
   }
 }

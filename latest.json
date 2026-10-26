@@ -1,23 +1,23 @@
 {
   "product": "dx-zaza",
-  "version": "1.4.0",
-  "published": "2026-10-26T14:13:22Z",
+  "version": "1.5.0",
+  "published": "2026-10-26T16:42:11Z",
   "notes": {
-    "it": "Decoder CW, FT8 e FT4 nel player Listen Live; spot più puliti (niente più quadratini nei commenti) e colonna UTC sempre visibile; nomi dei ricevitori KiwiSDR corretti.",
-    "en": "CW, FT8 and FT4 decoders in the Listen Live player; cleaner spots (no more boxes in comments) and UTC column always visible; KiwiSDR receiver names shown correctly."
+    "it": "Licenza: attivazione con la chiave del cartoncino (prova di 14 giorni). Mappa: la scheda della stazione si apre cliccando il nominativo e resta aperta finché non la chiudi.",
+    "en": "Licence: activation with the key on the card (14-day trial). Map: the station card opens with a click on the callsign and stays open until you close it."
   },
   "platforms": {
     "windows": {
-      "file": "DX-Zaza-1.4.0-Windows-x64-Setup.exe",
-      "url": "https://raw.githubusercontent.com/chefemanuele-maker/dx-zaza-updates/main/files/1.4.0/DX-Zaza-1.4.0-Windows-x64-Setup.exe",
-      "sha256": "c2f9b2953a35f9c0af41413400b676ccc92b9dddbd4467c1b5851e3a8784de95",
-      "size": 23943119
+      "file": "DX-Zaza-1.5.0-Windows-x64-Setup.exe",
+      "url": "https://raw.githubusercontent.com/chefemanuele-maker/dx-zaza-updates/main/files/1.5.0/DX-Zaza-1.5.0-Windows-x64-Setup.exe",
+      "sha256": "9421007ab20f132da86bc01b8dad946ae7e9109936d98d4913f7a65215b51ea5",
+      "size": 23956654
     },
     "pi": {
-      "file": "dx_zaza_1.4.0-pi_update.tar.gz",
-      "url": "https://raw.githubusercontent.com/chefemanuele-maker/dx-zaza-updates/main/files/1.4.0/dx_zaza_1.4.0-pi_update.tar.gz",
-      "sha256": "1ce982ed7c22b8964270a1ca556f645f0ae96f9b2ec36fc6dcc81ab91f642c4f",
-      "size": 3654927
+      "file": "dx_zaza_1.5.0-pi_update.tar.gz",
+      "url": "https://raw.githubusercontent.com/chefemanuele-maker/dx-zaza-updates/main/files/1.5.0/dx_zaza_1.5.0-pi_update.tar.gz",
+      "sha256": "087fa5e133ba890494ed389f40b80322ee57ab4284c4a1b03771d9320c4dc7fa",
+      "size": 3663575
     }
   }
 }
